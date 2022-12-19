@@ -1,5 +1,3 @@
-# About Me:
-
 - Signal processing
 - Deep learning
 - Inverse problems
